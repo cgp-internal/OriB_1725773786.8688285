@@ -1,0 +1,22 @@
+{
+    "test_profiler\\.gitignore": {
+        "description": "Git ignore file for test profiler project",
+        "dependencies": {},
+        "exposes": []
+    },
+    "test_profiler\\index.html": {
+        "description": "Basic HTML file that displays 'Hello World'",
+        "dependencies": {},
+        "exposes": []
+    },
+    "test_profiler\\README.md": {
+        "description": "README file for a basic HTML project",
+        "dependencies": {},
+        "exposes": []
+    },
+    "test_profiler\\__json__": {
+        "description": "JSON file containing metadata for project files.",
+        "dependencies": {},
+        "exposes": []
+    }
+}
